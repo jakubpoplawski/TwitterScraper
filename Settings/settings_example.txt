@@ -1,0 +1,12 @@
+{
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "email": "yellowsubmarine061990@gmail.com",
+    "email_password": "",
+    "account_name": "yellowsubm1990",
+    "password": "",
+    "search_query": "US Elections 2024",
+    "expected_screen_scrolls": 50,
+    "reciever": "jakubpoplawski@live.com",
+    "log_name": "log_file.log",
+    "result_name": "twitter.csv"
+}

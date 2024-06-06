@@ -1,0 +1,516 @@
+INFO: 2024-06-02 22:54:21,951: 12240: <module>: E-mail sending script started.
+INFO: 2024-06-02 22:55:35,897: 12240: log_wrapper: define_message Section started.
+INFO: 2024-06-02 22:55:35,898: 12240: log_wrapper: Section ended.
+INFO: 2024-06-02 22:55:37,338: 12240: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 22:55:37,340: 12240: log_wrapper: Section ended.
+INFO: 2024-06-02 22:55:39,102: 12240: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 22:55:39,633: 12240: log_wrapper: Section ended.
+INFO: 2024-06-02 22:55:40,508: 12240: log_wrapper: send_message Section started.
+ERROR: 2024-06-02 22:55:42,894: 12240: log_wrapper: (552, b"5.3.4 Your message exceeded Google's message size limits. To view our\n5.3.4 message size guidelines, go to\n5.3.4  https://support.google.com/mail/?p=MaxSizeError ffacd0b85a97d-35dd04e845bsm6944067f8f.65 - gsmtp", 'yellowsubmarine061990@gmail.com')
+INFO: 2024-06-02 22:55:42,894: 12240: log_wrapper: Section ended.
+INFO: 2024-06-02 22:57:18,607: 21784: <module>: E-mail sending script started.
+INFO: 2024-06-02 22:57:20,418: 21784: log_wrapper: define_message Section started.
+INFO: 2024-06-02 22:57:20,418: 21784: log_wrapper: Section ended.
+INFO: 2024-06-02 22:57:24,028: 21784: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 22:57:24,030: 21784: log_wrapper: Section ended.
+INFO: 2024-06-02 22:57:27,227: 21784: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 22:57:27,738: 21784: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:12,458: 20876: <module>: E-mail sending script started.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: define_message Section started.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 23:03:12,458: 20876: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:39,268: 9076: <module>: E-mail sending script started.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: define_message Section started.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: attach_file Section started.
+INFO: 2024-06-02 23:03:39,268: 9076: log_wrapper: Section ended.
+INFO: 2024-06-02 23:03:40,714: 9076: <module>: E-mail sending script ended.
+INFO: 2024-06-03 17:00:10,528: 22932: <module>: Scraping script started.
+INFO: 2024-06-03 17:00:10,528: 22932: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-03 17:00:11,328: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:11,328: 22932: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-03 17:00:11,944: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:11,945: 22932: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-03 17:00:12,641: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:12,642: 22932: log_wrapper: refuse_cookies Section started.
+INFO: 2024-06-03 17:00:14,929: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:14,929: 22932: log_wrapper: go_directly_to_search_latest Section started.
+INFO: 2024-06-03 17:00:15,694: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:15,694: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:17,244: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:19,248: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:19,705: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:21,711: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:22,146: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:24,153: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:24,545: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:26,549: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:26,881: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:28,886: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:29,223: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:31,228: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:31,515: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:33,520: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:33,842: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:35,848: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:36,145: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:38,151: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:38,489: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:40,494: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:40,824: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:42,829: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:43,145: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:45,150: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:45,414: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:47,420: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:47,867: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:49,874: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:50,333: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:52,340: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:52,801: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:54,805: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:55,193: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:57,199: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:00:57,632: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:00:59,639: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:00,067: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:02,074: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:02,365: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:04,370: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:04,680: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:06,685: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:06,933: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:08,938: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:09,204: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:11,208: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:11,560: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:13,566: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:13,901: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:15,906: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:16,278: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:18,284: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:18,660: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:20,665: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:21,077: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:23,082: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:23,417: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:25,422: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:25,733: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:27,742: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:28,124: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:30,130: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:30,473: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:32,478: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:32,831: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:34,836: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:35,222: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:37,229: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:37,536: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:39,541: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:39,841: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:41,847: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:42,141: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:44,147: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:44,454: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:46,460: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:46,721: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:48,726: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:49,018: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:51,024: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:51,356: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:53,363: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:53,678: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:55,683: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:56,105: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:01:58,111: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:01:58,456: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:00,461: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:02:00,778: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:02,782: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:02:03,078: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:05,083: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:02:05,496: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:07,501: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:02:07,955: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:09,961: 22932: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-03 17:02:10,552: 22932: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:12,583: 22932: <module>: Scraping script ended.
+INFO: 2024-06-03 17:02:24,315: 21568: <module>: E-mail sending script started.
+INFO: 2024-06-03 17:02:24,315: 21568: log_wrapper: define_message Section started.
+INFO: 2024-06-03 17:02:24,315: 21568: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:24,315: 21568: log_wrapper: attach_file Section started.
+INFO: 2024-06-03 17:02:24,316: 21568: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:24,316: 21568: log_wrapper: attach_file Section started.
+INFO: 2024-06-03 17:02:24,317: 21568: log_wrapper: Section ended.
+INFO: 2024-06-03 17:02:25,953: 21568: <module>: E-mail sending script ended.
+INFO: 2024-06-04 23:47:20,845: 21776: <module>: Scraping script started.
+INFO: 2024-06-04 23:47:20,845: 21776: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-04 23:47:22,168: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:22,169: 21776: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-04 23:47:27,321: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:27,321: 21776: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-04 23:47:27,499: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:27,499: 21776: log_wrapper: refuse_cookies Section started.
+INFO: 2024-06-04 23:47:30,122: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:30,122: 21776: log_wrapper: go_directly_to_search_latest Section started.
+INFO: 2024-06-04 23:47:30,872: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:30,872: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:33,386: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:35,399: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:36,138: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:38,172: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:38,948: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:40,991: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:41,883: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:43,932: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:44,797: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:46,839: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:47,690: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:49,724: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:50,576: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:52,612: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:53,534: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:55,570: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:56,490: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:47:58,524: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:47:59,591: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:01,633: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:02,748: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:04,807: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:05,898: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:07,944: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:08,880: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:10,912: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:11,947: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:13,993: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:14,981: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:17,025: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:17,975: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:20,012: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:20,887: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:22,916: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:23,653: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:25,678: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:26,540: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:28,575: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:29,327: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:31,373: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:32,108: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:34,138: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:34,961: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:36,989: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:37,777: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:39,796: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:40,799: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:42,835: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:43,773: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:45,809: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:46,845: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:48,894: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:50,028: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:52,073: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:53,017: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:55,054: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:55,984: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:48:58,034: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:48:58,818: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:00,858: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:01,635: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:03,679: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:04,531: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:06,568: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:07,321: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:09,353: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:10,025: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:12,061: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:12,954: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:14,994: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:15,908: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:17,947: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:18,868: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:20,904: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:21,842: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:23,887: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:24,779: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:26,813: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:27,681: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:29,706: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:30,698: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:32,738: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:33,554: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:35,581: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:36,417: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:38,450: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:39,277: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:41,307: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:42,167: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:44,203: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:45,071: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:47,075: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:47,880: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:49,907: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:50,659: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:52,694: 21776: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-04 23:49:53,380: 21776: log_wrapper: Section ended.
+INFO: 2024-06-04 23:49:55,427: 21776: <module>: Scraping script ended.
+INFO: 2024-06-04 23:50:07,326: 16220: <module>: E-mail sending script started.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: define_message Section started.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: Section ended.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: attach_file Section started.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: Section ended.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: attach_file Section started.
+INFO: 2024-06-04 23:50:07,326: 16220: log_wrapper: Section ended.
+INFO: 2024-06-04 23:50:08,646: 16220: <module>: E-mail sending script ended.
+INFO: 2024-06-05 17:00:07,318: 31296: <module>: Scraping script started.
+INFO: 2024-06-05 17:00:07,319: 31296: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-05 17:00:08,702: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:08,702: 31296: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-05 17:00:13,849: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:13,849: 31296: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-05 17:00:14,028: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:14,028: 31296: log_wrapper: refuse_cookies Section started.
+INFO: 2024-06-05 17:00:16,625: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:16,625: 31296: log_wrapper: go_directly_to_search_latest Section started.
+INFO: 2024-06-05 17:00:17,482: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:17,482: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:19,830: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:21,860: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:22,340: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:24,360: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:24,884: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:26,918: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:27,688: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:29,733: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:30,573: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:32,611: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:33,401: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:35,435: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:36,275: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:38,317: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:39,226: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:41,271: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:42,180: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:44,226: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:45,173: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:47,205: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:48,042: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:50,070: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:50,936: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:52,941: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:53,874: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:55,913: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:56,816: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:00:58,853: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:00:59,948: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:01,999: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:03,089: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:05,140: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:06,226: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:08,272: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:09,302: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:11,352: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:12,363: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:14,419: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:15,379: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:17,415: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:18,284: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:20,323: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:21,108: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:23,142: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:23,981: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:26,017: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:26,778: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:28,813: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:29,770: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:31,779: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:32,678: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:34,715: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:35,535: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:37,570: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:38,510: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:40,562: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:41,508: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:43,555: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:44,474: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:46,527: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:47,484: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:49,528: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:50,328: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:52,365: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:53,164: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:55,199: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:56,009: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:01:58,037: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:01:58,836: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:00,868: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:01,638: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:03,678: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:04,387: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:06,425: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:07,365: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:09,419: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:10,367: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:12,401: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:13,330: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:15,367: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:16,234: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:18,261: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:19,061: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:21,093: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:21,983: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:24,014: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:24,794: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:26,835: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:27,604: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:29,632: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:30,498: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:32,536: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:33,486: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:35,515: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:36,376: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:38,408: 31296: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-05 17:02:39,106: 31296: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:41,156: 31296: <module>: Scraping script ended.
+INFO: 2024-06-05 17:02:53,324: 33072: <module>: E-mail sending script started.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: define_message Section started.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: attach_file Section started.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: attach_file Section started.
+INFO: 2024-06-05 17:02:53,324: 33072: log_wrapper: Section ended.
+INFO: 2024-06-05 17:02:55,174: 33072: <module>: E-mail sending script ended.
+INFO: 2024-06-06 00:46:32,037: 34304: main: Scraping script started.
+INFO: 2024-06-06 00:47:32,383: 41628: main: Scraping script started.
+INFO: 2024-06-06 00:50:01,716: 39056: main: Scraping script started.
+INFO: 2024-06-06 00:50:12,531: 39056: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 00:50:12,852: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:21,540: 39056: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 00:50:26,694: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:40,850: 39056: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 00:50:41,057: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:46,849: 39056: log_wrapper: refuse_cookies Section started.
+INFO: 2024-06-06 00:50:47,909: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:49,685: 39056: log_wrapper: go_directly_to_search_latest Section started.
+INFO: 2024-06-06 00:50:50,076: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:54,083: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:50:54,623: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:56,640: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:50:57,160: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:50:59,179: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:50:59,699: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:01,705: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:02,456: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:04,478: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:05,261: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:07,284: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:08,177: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:10,204: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:11,229: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:13,258: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:14,282: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:16,319: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:17,371: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:19,409: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:20,498: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:22,533: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:23,498: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:25,525: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:26,585: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:28,616: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:29,652: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:31,686: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:32,700: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:34,736: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:35,735: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:37,767: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:38,911: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:40,961: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:42,197: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:44,241: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:45,470: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:47,525: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:48,718: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:50,767: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:51,878: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:53,917: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:55,034: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:51:57,070: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:51:58,031: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:00,058: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:01,058: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:03,088: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:04,063: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:06,098: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:06,955: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:08,985: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:09,870: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:11,897: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:12,766: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:14,789: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:15,877: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:17,913: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:19,057: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:21,094: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:22,148: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:24,191: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:25,265: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:27,309: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:28,362: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:30,399: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:31,458: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:33,496: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:34,407: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:36,436: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:37,462: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:39,495: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:40,421: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:42,447: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:43,226: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:45,248: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:46,221: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:48,256: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:49,268: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:51,299: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:52,344: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:54,381: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:55,384: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:52:57,409: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:52:58,311: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:00,337: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:01,169: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:03,195: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:04,187: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:06,212: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:07,167: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:09,192: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:10,032: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:12,052: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:12,980: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:15,009: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:16,090: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:53:18,118: 39056: log_wrapper: scrap_postings_data Section started.
+INFO: 2024-06-06 00:53:18,960: 39056: log_wrapper: Section ended.
+INFO: 2024-06-06 00:58:44,820: 30256: main: E-mail sending script started.
+INFO: 2024-06-06 01:00:02,151: 20004: main: E-mail sending script started.
+INFO: 2024-06-06 01:01:20,699: 32708: main: E-mail sending script started.
+INFO: 2024-06-06 01:01:23,686: 32708: log_wrapper: define_message Section started.
+INFO: 2024-06-06 01:01:23,687: 32708: log_wrapper: Section ended.
+INFO: 2024-06-06 01:01:25,918: 32708: log_wrapper: attach_file Section started.
+INFO: 2024-06-06 01:01:25,921: 32708: log_wrapper: Section ended.
+INFO: 2024-06-06 01:01:28,480: 32708: log_wrapper: attach_file Section started.
+INFO: 2024-06-06 01:01:28,481: 32708: log_wrapper: Section ended.
+INFO: 2024-06-06 01:01:32,265: 32708: log_wrapper: send_message Section started.
+INFO: 2024-06-06 01:01:33,593: 32708: log_wrapper: Section ended.
+INFO: 2024-06-06 01:01:38,901: 32708: main: E-mail sending script ended.
+INFO: 2024-06-06 01:43:46,013: 34128: main: Scraping script started.
+INFO: 2024-06-06 01:44:16,713: 34128: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 01:44:17,025: 34128: log_wrapper: Section ended.
+INFO: 2024-06-06 01:44:23,999: 34128: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 01:44:24,116: 34128: log_wrapper: Section ended.
+INFO: 2024-06-06 01:44:29,805: 34128: log_wrapper: entry_data_click Section started.
+INFO: 2024-06-06 01:44:29,988: 34128: log_wrapper: Section ended.
