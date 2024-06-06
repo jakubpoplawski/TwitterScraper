@@ -98,6 +98,7 @@ def entry_data_click(driver, entry_data, css_field_locator,
         xpath_button_locator (str): XPATH to the confirmation 
         button.
     """
+                         
     try:
         WebDriverWait(
             driver, 5).until(EC.element_to_be_clickable((
@@ -116,6 +117,7 @@ def refuse_cookies(driver, xpath_button_locator):
         driver (class): Driver object.    
         xpath_button_locator (str): XPATH location of the button.
     """
+    
     try:
         WebDriverWait(
             driver, 5).until(EC.element_to_be_clickable((
@@ -200,9 +202,8 @@ def scrap_postings_data(driver):
         except:
             pass
 
-
-
     return aggregating_temp_table
+
 
 def scraping_loop(driver, expected_screen_scrolls, rows):
     """The function scrolls through the page and fires 
